@@ -10,16 +10,10 @@
 
 - 🔭 I’m currently working as **SDE-1 Junglee Games** and a part-time **Rider**
 
-- 🤝 I’m looking for help with **Ladhak Trip**
+- 🤝 I’m looking for a friend to join **Ladhak Trip**
 
 - 💬 Ask me about **Tech or Bikes**
 
 - 📫 How to reach me **ajyadavofficial@gmail.com**
 
 - ⚡ Fun fact **also a Bike Lover, Sunday rides are my passion.**
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajayyadavofficial&show_icons=true&locale=en&layout=compact" alt="ajayyadavofficial" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajayyadavofficial&show_icons=true&locale=en" alt="ajayyadavofficial" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajayyadavofficial&" alt="ajayyadavofficial" /></p>
