@@ -8,17 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **amazon-clone, Vehicle Recognition system base on ML**
+- 🔭 I’m currently working as **SDE-1 Junglee Games** and a part-time **Rider**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🤝 I’m looking for help with **Ladhak Trip**
 
-- 🤝 I’m looking for help with **ML**
-
-- 💬 Ask me about **C/C++, JAVA, Python, ReactJS, HTML/CSS/<JS>**
+- 💬 Ask me about **Tech or Bikes**
 
 - 📫 How to reach me **ajyadavofficial@gmail.com**
 
-- ⚡ Fun fact **also a comic, writes a lot of jokes in free time.**
+- ⚡ Fun fact **also a Bike Lover, Sunday rides are my passion.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
