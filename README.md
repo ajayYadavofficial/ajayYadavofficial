@@ -18,12 +18,6 @@
 
 - ⚡ Fun fact **also a Bike Lover, Sunday rides are my passion.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aj-yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aj-yadav" height="30" width="40" /></a>
-<a href="https://instagram.com/ajyadav6794" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajyadav6794" height="30" width="40" /></a>
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajayyadavofficial&show_icons=true&locale=en&layout=compact" alt="ajayyadavofficial" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajayyadavofficial&show_icons=true&locale=en" alt="ajayyadavofficial" /></p>
